@@ -1,0 +1,1 @@
+[PERSON_START] Mr.Hong  [PERSON_END]has two credit card one in with MASTER and another one is VISA. The card number is [BANK_ACCOUNT_START] 4578-1460-8860-4138  [BANK_ACCOUNT_END]may be my POSB bank account or DBS is [BANK_ACCOUNT_START] 8828-6725  [BANK_ACCOUNT_END]not sure
