@@ -1,1 +1,2 @@
 *.safetensors filter=lfs diff=lfs merge=lfs -text
+whisper-small_en_seed_gretel_similar0.3_updated-20240916T031823Z-001/model.safetensors filter=lfs diff=lfs merge=lfs -text
